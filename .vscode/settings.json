@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "html.suggest.html5": true,
+
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  }
+}
